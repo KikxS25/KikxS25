@@ -1,4 +1,4 @@
- <p align="center"><img src=" https://github.com/KikxS25/Audiencias/blob/main/Forms/Img/tribalwolf.png"></p>
+
 
 
 ![Image text](https://github.com/KikxS25/Audiencias/blob/main/Forms/Img/tribalwolf.png)
