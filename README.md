@@ -1,9 +1,5 @@
 
 
-
-![TribalWolf!](https://github.com/KikxS25/Audiencias/blob/main/Forms/Img/tribalwolf.png)
-
-
 - 👋 Hi, I’m @KikxS25 / <b>Ikxs Sanz 🐺👑👨‍🏫</b>
 - 👀 I’m interested in ... Web Development, Business, Learning, Teaching, Marcial Arts, Hiking, Youtubbing, Tourism, And All Technolgies.
 - 🌱 I’m currently learning ... About Web Development, Backend, Business, Learning, Teaching, Marcial Arts, Hiking, Youtubbing, Tourism, And All Technolgies.
